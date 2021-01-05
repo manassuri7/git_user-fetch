@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "billboard.js": "^1.7.1",
     "gh-pages": "^2.0.1",
     "rc-progress": "^2.3.0",
